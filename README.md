@@ -18,17 +18,17 @@ What does this mod do now?
 
  - Adds the following cars:
  
- Masarati 4200T
- Dodge Magnum
- 300C
- Subaru Impreza
- Jaguar XJ220
- NISMO Skyline
- Honday Integra Type R
- Corvette ZR1
- Nissan 350z (2007)
- Ben Prototype Car
- Pete Prototype Car
+ - Masarati 4200T
+ - Dodge Magnum
+ - 300C
+ - Subaru Impreza
+ - Jaguar XJ220
+ - NISMO Skyline
+ - Honday Integra Type R
+ - Corvette ZR1
+ - Nissan 350z (2007)
+ - Ben Prototype Car
+ - Pete Prototype Car
  
  - Unlocks all the open world maps , test tracks, & Nurburgring short circuits.
  - Unlocks the showroom test track online.
