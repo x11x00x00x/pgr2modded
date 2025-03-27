@@ -17,6 +17,9 @@ What does this mod do now?
  - Adds the Masarati
  - Adds the Dodge Magnum
  - Adds the 300C
+ - Unlocks all the open world maps , test tracks, & Nurburgring short circuits.
+ - Unlocks the showroom test track online.
+ - Changes the color options for the Porsche 911 GT1.
 
 
 Todo:
