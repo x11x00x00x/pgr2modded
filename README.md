@@ -40,6 +40,10 @@ Todo:
  - Ben Prototype Car
  - Pete Prototype Car
 
+Bugs:
+
+ - Breaks some colors while racing online for some cars.
+
 How to install:
 
 Copy the game files over the top of your current game files and clear your cache. Run the game.
