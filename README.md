@@ -27,6 +27,7 @@ What does this mod do now?
  - Honday Integra Type R
  - Corvette ZR1
  - Nissan 350z (2007)
+ - BMW M3 Coupe
  
  - Unlocks all the open world maps , test tracks, & Nurburgring short circuits.
  - Unlocks the showroom test track online.
@@ -35,14 +36,10 @@ What does this mod do now?
 
 Todo:
 
- - Add the BMW M3 Coupe
- - Fix the physics of the Masarati
+ - Add the BMW M3 Coupe (DONE)
+ - Fix the physics of the Masarati (DONE?)
  - Ben Prototype Car
  - Pete Prototype Car
-
-Bugs:
-
- - Breaks some colors while racing online for some cars.
 
 How to install:
 
