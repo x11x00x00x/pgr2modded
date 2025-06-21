@@ -27,8 +27,6 @@ What does this mod do now?
  - Honday Integra Type R
  - Corvette ZR1
  - Nissan 350z (2007)
- - Ben Prototype Car
- - Pete Prototype Car
  
  - Unlocks all the open world maps , test tracks, & Nurburgring short circuits.
  - Unlocks the showroom test track online.
@@ -39,8 +37,13 @@ Todo:
 
  - Add the BMW M3 Coupe
  - Fix the physics of the Masarati
+ - Ben Prototype Car
+ - Pete Prototype Car
 
 How to install:
 
 Copy the game files over the top of your current game files and clear your cache. Run the game.
 
+DO NOT INSTALL THE FutureFixes Folder.
+
+To unlock the tracks you MUST use the JayFNG profile. 
