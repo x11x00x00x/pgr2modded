@@ -1,69 +1,86 @@
 # Project Gotham Racing 2 - Modded (PGR2Modded)
 
-Welcome to **PGR2Modded**, an exciting modification for *Project Gotham Racing 2* that enhances your racing experience with new cars, tracks, and customization options. This mod is actively in development, with more features and improvements on the way!
+Version 1.5
+
+Welcome to **PGR2Modded**, a dynamic modification for *Project Gotham Racing 2* that elevates your racing experience with new cars, tracks, and customization options. This mod is actively in development, with exciting updates and features planned for future releases!
 
 ## What's New in PGR2Modded?
 
-This mod introduces a variety of enhancements to the original game, including:
+PGR2Modded introduces a host of enhancements to the original game, including two distinct car packs, unlocked tracks, and expanded customization options.
 
-### New "KPack" Car Class
-A brand-new class featuring the following cars:
-- Maserati 4200T
-- Dodge Magnum
-- Chrysler 300
-- Subaru Impreza
-- Jaguar XJ220
-- NISMO Skyline
-- Honda Integra Type R
-- Corvette ZR1
+### Car Packs
+Choose from two unique car packs, each offering a curated selection of vehicles:
+
+#### KPack
+High-performance cars with a focus on speed and style:
+- Subaru Impreza WRX STi (Rallycross Edition)
+- Jaguar XJ220 (Modded)
+- Nissan NISMO Skyline GT-R R-Tune (R34)
+- Honda Integra Type-R (J) (Modded)
+- Corvette ZR1 (2009)
 - Nissan 350Z (2007)
-- BMW M3 Coupe
-- Ben's Prototype Car
-- Pete's Prototype Car
+- BMW M Coupe
+- Chrysler 300
+- Dodge Magnum
+- Maserati 4200 GT
+
+#### Proto Pack
+Experimental and prototype vehicles for a unique racing experience:
+- BMW Z8
+- Ben's Prototype
+- Pete's Prototype
+- Seat F1
+- Proto BMW M Coupe
+- Proto Chrysler 300
+- Proto Dodge Magnum
+- Proto Maserati 4200 GT
 
 ### Unlocked Tracks
 - All open-world maps, test tracks, and Nürburgring short circuits are fully unlocked.
-- Showroom test track is now available online.
+- Showroom test track is now available online with a fixed mini-map.
+- Removed unusable open-world tracks and renamed zero tracks to "Open World" for clarity.
 
 ### Customization Upgrades
 - New color options for the Porsche 911 GT1.
 - Additional colors for the Mini Cooper and TVR in Cat & Mouse mode.
-- Expanded color options for various cars.
+- Expanded color options across various cars for greater personalization.
 
 ## Upcoming Features
-We're working hard to bring you even more content! Planned updates include:
-- New style challenges to test your skills.
-- Additional cars, including the BMW Z8 and an F1 Prototype car.
-- New and modified maps, including Paris and Long Beach in night and rain conditions.
-- A dedicated "Proto" class for prototype vehicles.
-- Custom license plates and horn changes.
-- Leaderboard ID updates for all cars and tracks.
-- Improved physics tuning for all new cars.
+We're committed to expanding PGR2Modded with more content and improvements, including:
+- New style challenges to test your driving skills.
+- Additional maps, including Paris and Long Beach in night and rain conditions.
+- Custom license plates and horn modifications.
+- Updated leaderboard IDs for all cars and tracks. Need to identify available boards and how to integrate in the future?
+- Enhanced physics tuning for all new cars to ensure a balanced experience.
 
 ## Completed Tasks
-The following features have already been implemented:
-- Added BMW M3 Coupe.
-- Fixed Maserati physics.
-- Added Ben's and Pete's Prototype Cars.
+The following features have been successfully implemented:
+- Added BMW M Coupe to KPack and Proto Pack (distinct versions).
+- Fixed Maserati 4200 GT physics for improved handling.
+- Introduced Ben's and Pete's Prototype Cars in the Proto Pack.
 - Applied TVR colors to Mini Cooper for Cat & Mouse mode.
-- Duplicated Integra Type-R and modified the XJ220.
-- Moved all cars to their own class.
+- Duplicated and modified Honda Integra Type-R and Jaguar XJ220.
+- Organized all cars into their respective classes (KPack and Proto Pack).
 - Added and verified Nissan 350Z (2007).
-- Showroom Test Track mini map fixed.
-- Removed unusable Open World Tracks.
-- Renamed 0 tracks to Open World.
+- Fixed the Showroom Test Track mini-map.
+- Removed unusable open-world tracks.
+- Renamed zero tracks to "Open World" for consistency.
+- Added BMW Z8.
+- Added F1 Car.
+- Changed all new cars in car packs to leaderboard zero to reduxe the chance of pollution on the leaderboards.
 
 ## Installation Instructions
 Follow these steps to install PGR2Modded:
-1. **Copy Game Files**: Overwrite your existing *Project Gotham Racing 2* game files with the modded files.
-2. **Clear Cache**: Clear your game cache to avoid a "dirty disk" error on the first load. If the error occurs, the cache will be force-cleared, and the game will load properly on the next attempt.
-3. **Use JayFNG Profile**: To unlock tracks, use the provided JayFNG profile. You may need to purchase cars using in-game tokens.
-4. **Important**: Do **not** install the `FutureFixes` folder.
+1. **Select a Pack**: Choose either the KPack or Proto Pack based on your preference. Each pack is independent and cannot be used simultaneously.
+2. **Copy Game Files**: Copy the files from your chosen pack to the corresponding locations on your console, overwriting the existing *Project Gotham Racing 2* game files.
+3. **Clear Cache**: Clear your game cache to prevent a "dirty disk" error on the first load. If the error occurs, the cache will be force-cleared, and the game will load correctly on the next attempt.
+4. **Use JayFNG Profile**: To access unlocked tracks, use the JayFNG profile. You may need to purchase cars using in-game tokens.
+5. **Important**: Do **not** install the `FutureFixes` folder, as it is not compatible with the current mod version.
 
 ## Important Notes
 - **Language Support**: This mod currently supports only English systems. Multi-language support is planned for future updates.
 - **Online Scoreboards**: **Do not** upload scores to online leaderboards using modded cars or tracks, as this may result in a ban.
-- **Work in Progress**: PGR2Modded is still under development, and some features may be refined or expanded in future releases.
+- **Work in Progress**: PGR2Modded is under active development, and some features may be refined or expanded in future releases.
 
 ## Feedback and Support
-We’d love to hear your feedback! If you encounter issues or have suggestions, please open an issue on this GitHub repository. Stay tuned for more updates as we continue to enhance *Project Gotham Racing 2*!
+We value your feedback! If you encounter issues or have suggestions, please open an issue on this GitHub repository. Stay tuned for more updates as we continue to enhance *Project Gotham Racing 2*!
