@@ -39,7 +39,6 @@ We're working hard to bring you even more content! Planned updates include:
 - Custom license plates and horn changes.
 - Leaderboard ID updates for all cars and tracks.
 - Improved physics tuning for all new cars.
-- Showroom Test Track mini map fix.
 
 ## Completed Tasks
 The following features have already been implemented:
@@ -50,6 +49,9 @@ The following features have already been implemented:
 - Duplicated Integra Type-R and modified the XJ220.
 - Moved all cars to their own class.
 - Added and verified Nissan 350Z (2007).
+- Showroom Test Track mini map fixed.
+- Removed unusable Open World Tracks.
+- Renamed 0 tracks to Open World.
 
 ## Installation Instructions
 Follow these steps to install PGR2Modded:
