@@ -1,72 +1,66 @@
-# pgr2modded
+# Project Gotham Racing 2 - Modded (PGR2Modded)
 
-Project Gotham Racing 2 - Modded 
+Welcome to **PGR2Modded**, an exciting modification for *Project Gotham Racing 2* that enhances your racing experience with new cars, tracks, and customization options. This mod is actively in development, with more features and improvements on the way!
 
-This version is in development.
+## What's New in PGR2Modded?
 
-The following updates are coming:
+This mod introduces a variety of enhancements to the original game, including:
 
- - Add new style challenges.
- - Add more new cars.
- - Modify / Add new maps.
- - Add the Test Circuit
+### New "KPack" Car Class
+A brand-new class featuring the following cars:
+- Maserati 4200T
+- Dodge Magnum
+- Chrysler 300
+- Subaru Impreza
+- Jaguar XJ220
+- NISMO Skyline
+- Honda Integra Type R
+- Corvette ZR1
+- Nissan 350Z (2007)
+- BMW M3 Coupe
+- Ben's Prototype Car
+- Pete's Prototype Car
 
+### Unlocked Tracks
+- All open-world maps, test tracks, and Nürburgring short circuits are fully unlocked.
+- Showroom test track is now available online.
 
-... More to come.
+### Customization Upgrades
+- New color options for the Porsche 911 GT1.
+- Additional colors for the Mini Cooper and TVR in Cat & Mouse mode.
+- Expanded color options for various cars.
 
-What does this mod do now?
+## Upcoming Features
+We're working hard to bring you even more content! Planned updates include:
+- New style challenges to test your skills.
+- Additional cars, including the BMW Z8 and an F1 Prototype car.
+- New and modified maps, including Paris and Long Beach in night and rain conditions.
+- A dedicated "Proto" class for prototype vehicles.
+- Custom license plates and horn changes.
+- Leaderboard ID updates for all cars and tracks.
+- Improved physics tuning for all new cars.
 
- Adds the following cars in a new class called KPack:
- 
- - Masarati 4200T
- - Dodge Magnum
- - Chrysler 300
- - Subaru Impreza
- - Jaguar XJ220
- - NISMO Skyline
- - Honda Integra Type R
- - Corvette ZR1
- - Nissan 350z (2007)
- - BMW M3 Coupe
- - Bens Prototype Car
- - Petes Prototype Car
- 
- - Unlocks all the open world maps , test tracks, & Nurburgring short circuits.
- - Unlocks the showroom test track online.
- - Changes the color options for the Porsche 911 GT1. 
- - Adds colors to the Mini Cooper and the TVR for Cat N Mouse.
- - Adds more colors to cars.
+## Completed Tasks
+The following features have already been implemented:
+- Added BMW M3 Coupe.
+- Fixed Maserati physics.
+- Added Ben's and Pete's Prototype Cars.
+- Applied TVR colors to Mini Cooper for Cat & Mouse mode.
+- Duplicated Integra Type-R and modified the XJ220.
+- Moved all cars to their own class.
+- Added and verified Nissan 350Z (2007).
 
+## Installation Instructions
+Follow these steps to install PGR2Modded:
+1. **Copy Game Files**: Overwrite your existing *Project Gotham Racing 2* game files with the modded files.
+2. **Clear Cache**: Clear your game cache to avoid a "dirty disk" error on the first load. If the error occurs, the cache will be force-cleared, and the game will load properly on the next attempt.
+3. **Use JayFNG Profile**: To unlock tracks, use the provided JayFNG profile. You may need to purchase cars using in-game tokens.
+4. **Important**: Do **not** install the `FutureFixes` folder.
 
-Todo:
+## Important Notes
+- **Language Support**: This mod currently supports only English systems. Multi-language support is planned for future updates.
+- **Online Scoreboards**: **Do not** upload scores to online leaderboards using modded cars or tracks, as this may result in a ban.
+- **Work in Progress**: PGR2Modded is still under development, and some features may be refined or expanded in future releases.
 
- - Add the BMW M3 Coupe (DONE)
- - Fix the physics of the Masarati (DONE)
- - Ben Prototype Car (DONE)
- - Pete Prototype Car (DONE)
- - Add TVR colors to mini cooper for cat and mouse (DONE)
- - Change the horn.
- - Paris and Long Beach , night and rain.
- - License plate
- - Duplicate Integra Type-R and modify the XJ220. (DONE)
- - Move all cars to its own class. (DONE)
- - Check Nissan 350z (2007) and add it. (DONE)
- - Change leaderboard IDs for all cars and tracks to new leaderboard IDs.
- - Add the BMW Z8
- - Add the F1 Prototype car.
- - Create a new Proto class.
- - Tune all new cars that do not have their own tune by default.
-
-NOTE: This mod ONLY works on English systems. More soon.
-
-DO NOT UPLOAD SCORES TO ANY SCOREBOARDS ONLINE USING THESE CARS OR YOU WILL BE BANNED.
-
-How to install:
-
-Copy the game files over the top of your current game files and clear your cache. Run the game.
-
-If you do not clear your cache , you will get a dirty disk error on the first load of the game if you try to load any new car. It will force clear cache at that point and the next load will load the game properly. This only applies after install.
-
-DO NOT INSTALL THE FutureFixes Folder.
-
-To unlock the tracks you MUST use the JayFNG profile. You may need to buy the cars with tokens.
+## Feedback and Support
+We’d love to hear your feedback! If you encounter issues or have suggestions, please open an issue on this GitHub repository. Stay tuned for more updates as we continue to enhance *Project Gotham Racing 2*!
