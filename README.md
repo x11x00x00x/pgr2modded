@@ -55,6 +55,7 @@ Todo:
  - Add the BMW Z8
  - Add the F1 Prototype car.
  - Create a new Proto class.
+ - Tune all new cars that do not have their own tune by default.
 
 NOTE: This mod ONLY works on English systems. More soon.
 
