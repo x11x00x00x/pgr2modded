@@ -39,6 +39,7 @@ We're working hard to bring you even more content! Planned updates include:
 - Custom license plates and horn changes.
 - Leaderboard ID updates for all cars and tracks.
 - Improved physics tuning for all new cars.
+- Showroom Test Track mini map fix.
 
 ## Completed Tasks
 The following features have already been implemented:
