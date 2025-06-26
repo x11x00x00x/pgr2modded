@@ -36,8 +36,6 @@ Version 1.6
 
 ## Notes:
 - The Proto Pack is still in development, and these rules ensure testing aligns with finalizing the pack.
-- Ensure all players in Saturday night racing sessions are aware of these restrictions, especially regarding modded cars and excluded tracks.
-- For general *PGR2* Kudos mechanics, refer to the game’s system: points are earned for stylish driving (e.g., drifting, overtaking) and can unlock content, but progression in this context is secondary to testing.
 
 # KPack Rules for *Project Gotham Racing 2* on Insignia
 
