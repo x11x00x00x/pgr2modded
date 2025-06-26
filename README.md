@@ -77,7 +77,7 @@ The following features have been successfully implemented:
 ## Installation Instructions
 Follow these steps to install PGR2Modded:
 1. **Select a Pack**: Choose either the KPack or Proto Pack based on your preference. Each pack is independent and cannot be used simultaneously.
-2. **Copy Game Files**: Copy the files from your chosen pack to the corresponding locations on your console, overwriting the existing *Project Gotham Racing 2* game files.
+2. **Copy Game Files**: Copy the files from your chosen pack to the corresponding locations on your console, overwriting the existing *Project Gotham Racing 2* game files. Note: The full game must be placed on your HDD for this mod to work.
 3. **Clear Cache**: Clear your game cache to prevent a "dirty disk" error on the first load. If the error occurs, the cache will be force-cleared, and the game will load correctly on the next attempt.
 4. **Use JayFNG Profile**: To access unlocked tracks, use the JayFNG profile. You may need to purchase cars using in-game tokens.
 5. **Important**: Do **not** install the `FutureFixes` folder, as it is not compatible with the current mod version.
