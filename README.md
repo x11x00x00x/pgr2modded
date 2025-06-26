@@ -1,6 +1,6 @@
 # Project Gotham Racing 2 - Modded (PGR2Modded)
 
-Version 1.5
+Version 1.6
 
 Welcome to **PGR2Modded**, a dynamic modification for *Project Gotham Racing 2* that elevates your racing experience with new cars, tracks, and customization options. This mod is actively in development, with exciting updates and features planned for future releases!
 
@@ -51,7 +51,7 @@ We're committed to expanding PGR2Modded with more content and improvements, incl
 - Additional maps, including Paris and Long Beach in night and rain conditions.
 - Custom license plates and horn modifications.
 - Updated leaderboard IDs for all cars and tracks. Need to identify available boards and how to integrate in the future?
-- Enhanced physics tuning for all new cars to ensure a balanced experience.
+
 
 ## Completed Tasks
 The following features have been successfully implemented:
@@ -68,6 +68,7 @@ The following features have been successfully implemented:
 - Added BMW Z8.
 - Added F1 Car.
 - Changed all new cars in car packs to leaderboard zero to reduxe the chance of pollution on the leaderboards.
+- Enhanced physics tuning for all new cars to ensure a balanced experience.
 
 ## Installation Instructions
 Follow these steps to install PGR2Modded:
@@ -81,6 +82,7 @@ Follow these steps to install PGR2Modded:
 - **Language Support**: This mod currently supports only English systems. Multi-language support is planned for future updates.
 - **Online Scoreboards**: **Do not** upload scores to online leaderboards using modded cars or tracks, as this may result in a ban.
 - **Work in Progress**: PGR2Modded is under active development, and some features may be refined or expanded in future releases.
+- **BUG**: The F1 car does not load in the model in offline mode. To drive the F1 car you must first click into another car class then back out and then click the Proto Pack and select the F1 . You MUST do this every time you want to race it or scroll past its option in the menu. It will freeze your game otherwise. Working on a solution…
 
 ## Feedback and Support
 We value your feedback! If you encounter issues or have suggestions, please open an issue on this GitHub repository. Stay tuned for more updates as we continue to enhance *Project Gotham Racing 2*!
