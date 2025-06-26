@@ -70,10 +70,10 @@ Experimental and prototype vehicles for a unique racing experience:
 - Ben's Prototype
 - Pete's Prototype
 - Seat F1
-- Proto BMW M Coupe
-- Proto Chrysler 300
-- Proto Dodge Magnum
-- Proto Maserati 4200 GT
+- BMW M Coupe
+- Chrysler 300
+- Dodge Magnum
+- Maserati 4200 GT
 
 ### Unlocked Tracks
 - All open-world maps, test tracks, and Nürburgring short circuits are fully unlocked.
