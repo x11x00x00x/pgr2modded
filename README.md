@@ -1,5 +1,9 @@
 # Project Gotham Racing 2 - Modded (PGR2Modded)
 
+**NOTICE: DO NOT UPLOAD TO ANY SCOREBOARDS USING MODDED CARS OR YOU WILL BE PERMA BANNED BY INSIGNIA. THIS MOD IS FOR OFFLINE USE OR ONLINE MULTIPLAYER GAME PLAY IN CERTAIN CIRCUMSTANCES. MORE RULES TO COME SOON.**
+
+**WHEN INSTALLING THE MOD , MAKE SURE TO INSTALL TO A SECONDARY VERSION OF THE GAME. DO NOT UPLOAD THIS TO YOUR MAIN GAME YOU PLAY ONLINE WITH.**
+
 Version 1.6
 
 Welcome to **PGR2Modded**, a dynamic modification for *Project Gotham Racing 2* that elevates your racing experience with new cars, tracks, and customization options. This mod is actively in development, with exciting updates and features planned for future releases!
