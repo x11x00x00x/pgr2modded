@@ -1,11 +1,49 @@
 # Project Gotham Racing 2 - Modded (PGR2Modded)
 
+Version 1.6
+
 **NOTICE: DO NOT UPLOAD TO ANY SCOREBOARDS USING MODDED CARS OR YOU WILL BE PERMA BANNED BY INSIGNIA. THIS MOD IS FOR OFFLINE USE OR ONLINE MULTIPLAYER GAME PLAY IN CERTAIN CIRCUMSTANCES. MORE RULES TO COME SOON.**
 
 **WHEN INSTALLING THE MOD , MAKE SURE TO INSTALL TO A SECONDARY VERSION OF THE GAME. DO NOT UPLOAD THIS TO YOUR MAIN GAME YOU PLAY ONLINE WITH.**
 
-Version 1.6
+**Online Rules and Usage Restrictions**
 
+# Proto Pack Rules for *Project Gotham Racing 2* on Insignia
+
+1. **Online Play Restrictions**:
+   - Only play online using the Proto Pack during **Saturday night racing sessions** or for **testing**.
+   - The Proto Pack is primarily for **testing** to finalize its development; online play is secondary until completion.
+
+2. **Track Limitations**:
+   - Use all available tracks **except** the Nürburgring pack tracks numbered 2 through 12 online. These are explicitly excluded from online play.
+
+3. **Car Challenges**:
+   - Proto Pack car challenges in **time attack** are **disabled**.
+
+4. **Modded Cars**:
+   - Modded cars can be used online and will earn Kudos, but they **only function if the session host also has the modded cars** installed.
+   - If the host lacks the modded cars, they will not work in the session.
+
+5. **Excluded Modes**:
+   - Do **not** participate in:
+     - Time Attacks
+     - Circuit Challenges
+     - Ghost Challenges
+     - Weekly or Monthly events
+
+6. **Kudos and Progression**:
+   - Kudos can be earned during online play with the Proto Pack, following standard *PGR2* mechanics (e.g., power sliding, drafting, 360s, etc.), provided the modded cars are compatible with the host.
+
+## Notes:
+- The Proto Pack is still in development, and these rules ensure testing aligns with finalizing the pack.
+- Ensure all players in Saturday night racing sessions are aware of these restrictions, especially regarding modded cars and excluded tracks.
+- For general *PGR2* Kudos mechanics, refer to the game’s system: points are earned for stylish driving (e.g., drifting, overtaking) and can unlock content, but progression in this context is secondary to testing.
+
+# KPack Rules for *Project Gotham Racing 2* on Insignia
+
+DO NOT use the KPack online. It will result in a permanent ban. It is currently for testing ONLY.
+
+---------------------------------------------------------------------------------
 Welcome to **PGR2Modded**, a dynamic modification for *Project Gotham Racing 2* that elevates your racing experience with new cars, tracks, and customization options. This mod is actively in development, with exciting updates and features planned for future releases!
 
 ## What's New in PGR2Modded?
